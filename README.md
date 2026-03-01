@@ -1,14 +1,14 @@
-# Exercise-3d-Shaders
-
-\# Exercise-03d-Shaders
 
 
-
-Exercise for MSCH-C220
+Project 3  - Juicy Brick Breaker
 
 
 
-The final step adding "juicy" features to a simple brick-breaker game.
+February 28, 2026
+
+
+
+Brick Breaker meant to show how to make a game feel good to play. 
 
 
 
@@ -18,25 +18,35 @@ The final step adding "juicy" features to a simple brick-breaker game.
 
 
 
-Built using Godot 2022.3.45f
+Created sound effects, created background music, Screen shake when ball is hit, Breaks fall down when hit, changed sprites to custom ones, added neon effect, comet trail on the ball, ball and paddle change color when hit, changed font, eyes follow ball
 
 
+
+
+
+
+
+Which features you included
 
 
 
 \## References
 
-&nbsp;\* \[Juice it or lose it — a talk by Martin Jonasson \& Petri Purho](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
 
-&nbsp;\* \[Puzzle Pack 2, provided by kenney.nl](https://kenney.nl/assets/puzzle-pack-2)
 
-&nbsp;\* \[Background Elements Redux, provided by kenney.nl](https://kenney.nl/assets/background-elements-redux)
+[Sprites](https://www.piskelapp.com/)
 
-&nbsp;\* \[Open Color open source color scheme](https://yeun.github.io/open-color/)
 
-&nbsp;\* \[League Gothic Typeface](https://www.theleagueofmoveabletype.com/league-gothic)
 
-&nbsp;\* \[Orbitron Typeface](https://www.theleagueofmoveabletype.com/orbitron)
+[Music](https://www.soundtrap.com/)
+
+
+
+[Sound effects](https://sfbgames.itch.io/chiptone)
+
+
+
+[How I did neon effect](https://www.youtube.com/watch?v=LGhkKdud-DQ)
 
 
 
@@ -46,9 +56,13 @@ Built using Godot 2022.3.45f
 
 
 
-Power-ups, etc.
+N/A
 
 
 
-\## Created by Michelle Garcia
+\## Created by
+
+
+
+Michelle Garcia 
 
