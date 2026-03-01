@@ -5102,6 +5102,22 @@ PrefabInstance:
       value: 2.4758487
       objectReference: {fileID: 0}
     - target: {fileID: 3193101359323781794, guid: 3139d05964691f74fb84c5015bced1fb, type: 3}
+      propertyPath: lengthInSec
+      value: 0.51
+      objectReference: {fileID: 0}
+    - target: {fileID: 3193101359323781794, guid: 3139d05964691f74fb84c5015bced1fb, type: 3}
+      propertyPath: autoRandomSeed
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3193101359323781794, guid: 3139d05964691f74fb84c5015bced1fb, type: 3}
+      propertyPath: EmissionModule.rateOverTime.scalar
+      value: 24.23
+      objectReference: {fileID: 0}
+    - target: {fileID: 3193101359323781794, guid: 3139d05964691f74fb84c5015bced1fb, type: 3}
+      propertyPath: InitialModule.startLifetime.scalar
+      value: 0.39
+      objectReference: {fileID: 0}
+    - target: {fileID: 3193101359323781794, guid: 3139d05964691f74fb84c5015bced1fb, type: 3}
       propertyPath: InitialModule.startColor.maxColor.b
       value: 0.0951767
       objectReference: {fileID: 0}
